@@ -1,4 +1,21 @@
-## Hi there 👋
+Hunter Ellis
+--
+I am a Computer Engineer interested in controls, robotics and autonomy.
+
+> Languages: I primarily use Python and C/C++  
+> Environment: I mostly work in GNU/Linux with Neovim and Git
+
+<a href="https://github.com/hunterwellis">
+    <img src="./assets/github.svg" />
+</a>
+<a href="https://hunterwellis.github.io">
+    <img src="./assets/globe.svg" />
+</a>
+<a href="mailto:github+elliswhunter@gmail.com">
+    <img src="./assets/email.svg" />
+</a>
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=hunterwellis&layout=compact&theme=gruvbox&langs_count=10&hide=html,css,makefile)](https://github.com/hunterwellis/github-readme-stats) -->
 
 <!--
 **hunterwellis/hunterwellis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
