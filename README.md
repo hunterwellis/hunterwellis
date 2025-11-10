@@ -2,7 +2,7 @@ Hunter Ellis
 --
 I am a Computer Engineer with experience in controls, robotics, and autonomy.
 
-> Languages: I primarily use C++, C, and Python
+> Languages: I primarily use C++, C, and Python  
 > Interests: Embedded Systems, Robotics, GNU/Linux, Vim(btw)
 
 <a href="https://github.com/hunterwellis">
