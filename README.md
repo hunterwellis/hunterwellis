@@ -1,9 +1,9 @@
 Hunter Ellis
 --
-I am a Computer Engineer interested in controls, robotics and autonomy.
+I am a Computer Engineer with experience in controls, robotics, and autonomy.
 
-> Languages: I primarily use Python and C/C++  
-> Environment: I mostly work in GNU/Linux with Neovim and Git
+> Languages: I primarily use C++, C, and Python
+> Interests: Embedded Systems, Robotics, GNU/Linux, Vim(btw)
 
 <a href="https://github.com/hunterwellis">
     <img src="./assets/github.svg" />
@@ -11,7 +11,7 @@ I am a Computer Engineer interested in controls, robotics and autonomy.
 <a href="https://hunterwellis.github.io">
     <img src="./assets/globe.svg" />
 </a>
-<a href="mailto:github+elliswhunter@gmail.com">
+<a href="mailto:elliswhunter+github@gmail.com">
     <img src="./assets/email.svg" />
 </a>
 
